@@ -1,0 +1,17 @@
+[
+  {
+    "titulo": "musica 1",
+    "artista": "artista 1",
+    "ano": "1984"
+  },
+  {
+    "titulo": "musica 2",
+    "artista": "artisa 1",
+    "ano": "1984"
+  },
+  {
+    "titulo": "musica 3",
+    "artista": "artista 2",
+    "ano": "1985"
+  }
+]
