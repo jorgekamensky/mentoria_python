@@ -1,4 +1,4 @@
-from module.modules import *
+from modules import *
 
 if __name__ == "__main__":
 
@@ -23,7 +23,7 @@ if __name__ == "__main__":
             resultados = buscar_por_ano(ano)
             print(resultados if resultados else "Nenhuma música encontrada.")
         elif opcao == '4':
-            playlist = gerar_playlist_aleatoria()
+            playlist = playlist_aleatoria()
         elif opcao == '5':
             print("Encerrando")
             break
